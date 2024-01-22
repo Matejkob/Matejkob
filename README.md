@@ -1,8 +1,15 @@
-### Hi there 👋
+**About Me**
 
-I'm an iOS Software Engineer with a passion for crafting elegant, user-centric applications. I love exploring the latest technologies in the Apple ecosystem and leveraging Swift and SwiftUI to create seamless and engaging experiences. Always eager to learn, collaborate, and innovate, I enjoy working on open-source projects and contributing to the iOS development community. Let's build the future of mobile apps together! 📱💻🚀
+I'm a Senior iOS Software Engineer with a passion for merging cutting-edge technology with user-friendly designs. Specializing in Swift, Obj-C, SwiftUI, UIKit and the Composable Architecture, I aim to create intuitive and efficient applications.
 
-### Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusz-bąk-a3967617a)
+**Open Source Contributions**
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MatejkoBak)
+A strong advocate for open-source, I contribute to projects like Apple's Swift Syntax and lead my own project, Spyable, which is widely recognized in the Swift community. These endeavors reflect my commitment to enhancing software practices and fostering community growth.
+
+**Background and Approach**
+
+With a Bachelor's in Electronics and Telecommunications Engineering, my approach to software development is rooted in a diverse technological background. I'm always exploring new methods and technologies, seeking innovative solutions in the ever-evolving world of iOS development.
+
+**Collaboration and Continuous Learning**
+
+Collaboration and knowledge sharing are key to my professional ethos. I'm continually seeking opportunities to learn, grow, and contribute to impactful software projects, aiming to leave a positive mark in the tech community.
