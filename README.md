@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a Senior iOS Software Engineer with a passion for merging cutting-edge technology with user-friendly designs. Specializing in Swift, Obj-C, SwiftUI, UIKit and the Composable Architecture, I aim to create intuitive and efficient applications.
+I'm a Senior iOS Software Engineer with a passion for merging cutting-edge technology with user-friendly designs. Specializing in Swift, Obj-C, SwiftUI, UIKit and The Composable Architecture, I aim to create intuitive and efficient applications.
 
 ### Open Source Contributions
 
