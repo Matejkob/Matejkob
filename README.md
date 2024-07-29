@@ -20,7 +20,7 @@ Senior iOS Engineer | Swift Enthusiast | Open Source Contributor
 
 * **Spyable:** [github.com/matejkob/swift-spyable](https://github.com/matejkob/swift-spyable)
 * **Swift Syntax (Apple):** [github.com/swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) (60+ pull requests)
-* **Resume Template:** [github.com/Matejkob/resume-template](https://github.com/matejkob/resume-template) - A clean, customizable LaTeX resume template for professionals across various industries.
+* **Resume Template:** [github.com/matejkob/resume-template](https://github.com/matejkob/resume-template) - A clean, customizable LaTeX resume template for professionals across various industries.
 
 💬 Let's connect!
 
